@@ -1,0 +1,1 @@
+The output for the project "Stock Picker" for the Ruby Course of The Odin Project
